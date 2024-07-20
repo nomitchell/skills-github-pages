@@ -1,5 +1,5 @@
 ---
-title: Noah's ML Blog
+title: Blog
 ---
 
 hi this is my blog
